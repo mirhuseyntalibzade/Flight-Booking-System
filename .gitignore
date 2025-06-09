@@ -1,0 +1,16 @@
+# Ignore config files
+PL/appsettings.json
+PL/appsettings.Development.json
+
+# Ignore build & temp files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.db
+
+# Ignore .DS_Store for macOS (optional)
+.DS_Store
